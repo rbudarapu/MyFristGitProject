@@ -3,3 +3,8 @@ C:\_Work\Test\WebApplication1\WebApplication1\bin\WebApplication1.pdb
 C:\_Work\Test\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 C:\_Work\Test\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\_Work\Test\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\rbudarapu\Documents\GitHub\MyFristGitProject\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\rbudarapu\Documents\GitHub\MyFristGitProject\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\rbudarapu\Documents\GitHub\MyFristGitProject\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\rbudarapu\Documents\GitHub\MyFristGitProject\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\rbudarapu\Documents\GitHub\MyFristGitProject\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
